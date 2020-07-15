@@ -1,0 +1,12 @@
+[submodule "F18"]
+	path = F18
+	url = git@github.com:hernad/F18
+[submodule "vscode-f18"]
+	path = vscode-f18
+	url = git@github.com:hernad/vscode-f18
+[submodule "vscode-postgres"]
+	path = vscode-postgres
+	url = git@github.com:hernad/vscode-postgres
+[submodule "vscode-pdf-view"]
+	path = vscode-pdf-view
+	url = git@github.com:hernad/vscode-pdf-view
