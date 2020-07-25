@@ -10,3 +10,6 @@
 [submodule "vscode-pdf-view"]
 	path = vscode-pdf-view
 	url = git@github.com:hernad/vscode-pdf-view
+[submodule "eShell"]
+	path = eShell
+	url = git@github.com:hernad/eShell
