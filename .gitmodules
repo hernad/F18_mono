@@ -13,3 +13,10 @@
 [submodule "eShell"]
 	path = eShell
 	url = git@github.com:hernad/eShell
+[submodule "F18_template"]
+	path = F18_template
+	url = git@github.com:hernad/F18_template.git
+[submodule "F18_v3"]
+	path = F18_v3
+	url = git@github.com:hernad/F18.git
+	branch = 3-std
