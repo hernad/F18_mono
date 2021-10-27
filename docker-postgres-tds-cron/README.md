@@ -1,7 +1,11 @@
-# postgres-vindija
+# postgres
 
-postgresql  with mssql data wrapper & pg_cron
+postgresql with mssql data wrapper & pg_cron
 
-# build
+    CREATE EXTENSION tds_fdw;
 
-docker build -t tds_fdw  .
+
+
+## build
+
+docker build -t postgres-tds-cron .
